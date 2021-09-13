@@ -1,7 +1,7 @@
 <ol>
   <li>This</li>
   <li>Is</li>
-  <li>An orderede list</li>
+  <li>An ordered list</li>
   </ol>
   
   
